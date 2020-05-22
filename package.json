@@ -1,0 +1,10 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "one": "file:./packages/one",
+    "two": "file:./packages/two"
+  }
+}
